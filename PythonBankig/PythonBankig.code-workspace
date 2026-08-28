@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "PythonBankig",
+			"path": "."
+		},
+		{
+			"name": ".venv",
+			"path": "../newAPI/.venv"
+		}
+	],
+	"settings": {}
+}
